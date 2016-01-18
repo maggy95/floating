@@ -16,4 +16,8 @@
 .p3{
 	float: left;
 }
-.clearfix { display: inline; }
+
+.clearfix:before,.clearfix:after { display: table;
+content: " ";
+
+ }
