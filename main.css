@@ -1,0 +1,19 @@
+.padre{
+	background-color:white;
+      width:290px;
+      height: 50px;
+      border: 1px solid grey;
+
+}/* Pon tu código css aqui */
+
+.p1{
+	float: left;
+}
+
+.p2{
+	float: left;
+}
+.p3{
+	float: left;
+}
+.clearfix { display: inline; }
